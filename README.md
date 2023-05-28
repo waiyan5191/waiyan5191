@@ -17,7 +17,7 @@
      <li><h3>Development Skills</h3> Project Management, Quality Management, Waterfall, Agile</li>
      <li><h3>Design</h3> Basic Design, Detail Design, Unit Test Design and Integration Test Design</li>
      <li><h3>Programming Skills</h3> Java 8 onwards, Typed Script, VBA, Shell Scripting</li>
-     <li><h3>Frameworks</h3> Spring Framework, ReactJS, Java Server Faces, JPA, Mybatis</li>
+     <li><h3>Frameworks</h3> Spring Framework, ReactJS, NEXTJS, NestJS, Java Server Faces, JPA, Mybatis</li>
      <li><h3>Databases</h3>ORACLE, MySQL, PostgreSQL</li>
      <li><h3>Operating Systems</h3>Windows, Linux (RHEL/CentOS), Mac OS</li>
      <li><h3>No SQL</h3>Redis</li>
